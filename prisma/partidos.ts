@@ -1,0 +1,16 @@
+export const PARTIDOS_POLITICOS = [
+  { nroLista: 131, name: "FRENTE_LIBERAR", desc: "Frente Liber.ar" },
+  { nroLista: 132, name: "JUNTOS_POR_EL_CAMBIO", desc: "Juntos por el Cambio" },
+  { nroLista: 133, name: "HACEMOS_POR_NUESTRO_PAIS", desc: "Hacemos por Nuestro País" },
+  { nroLista: 134, name: "UNION_POR_LA_PATRIA", desc: "Unión por la Patria" },
+  { nroLista: 135, name: "LA_LIBERTAD_AVANZA", desc: "La Libertad Avanza" },
+  { nroLista: 136, name: "FRENTE_DE_IZQUIERDA_Y_DE_TRABAJADORES_UNIDAD", desc: "Frente de Izquierda y de Trabajadores Unidad" },
+  { nroLista: 137, name: "PRINCIPIOS_Y_VALORES_POR_TIERRA_TECCHO_Y_TRABAJO", desc: "Principios y Valores -Por Tierra, Techo y Trabajo" },
+  { nroLista: 13, name: "MOVIMIENTO_AL_SOCIALISMO", desc: "Movimiento al Socialismo" },
+  { nroLista: 20, name: "UNION_DEL_CENTRO_DEMOCRATICO", desc: "Unión del Centro Democrático" },
+  { nroLista: 40, name: "MOVIMIENTO_LIBRES_DEL_SUR", desc: "Movimiento Libres del Sur" },
+  { nroLista: 57, name: "MOVIMIENTO_DE_ACCION_VECINAL", desc: "Movimiento de Acción Vecinal" },
+  { nroLista: 90, name: "MOVIMIENTO_IZQUIERDA_JUVENTUD_DIGNIDAD", desc: "Movimiento Izquierda Juventud Dignidad" },
+  { nroLista: 92, name: "POLITICA_OBRERA", desc: "Política Obrera" },
+  { nroLista: 94, name: "PROYECTO_JOVEN_LISTA_PATRIA_UNIDA", desc: "Proyecto Joven (94) - Lista Patria Unida" },
+];

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /$
+Allow: /contribuir
+Allow: /fiscal
+Allow: /altafiscal
